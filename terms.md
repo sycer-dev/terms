@@ -35,3 +35,7 @@ Sycer Development may revise these terms of service for its website at any time 
 
 ## 8. Governing Law
 These terms and conditions are governed by and construed in accordance with the laws of United States, California and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+## 9. Company Nomenclature
+### A. "Lifetime"
+A Product payment term entitled "lifetime" is defined as a one-time payment granting the User access to the Product for the whole and complete lifetime of the Product. If and or when the Products lifetime has been deemed concluded by Sycer Development, the User will have access to the Product revoked and the Product will, consequently, be terminated.
