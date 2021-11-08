@@ -38,4 +38,4 @@ These terms and conditions are governed by and construed in accordance with the 
 
 ## 9. Company Nomenclature
 ### A. "Lifetime"
-A Product payment term entitled "lifetime" is defined as a one-time payment granting the User access to the Product for the whole and complete lifetime of the Product. If and or when the Products lifetime has been deemed concluded by Sycer Development, the User will have access to the Product revoked and the Product will, consequently, be terminated.
+A Product payment term entitled "lifetime" is defined as a one-time payment granting the User access to the Product for the whole and complete lifetime of the Product. If and or when the Products lifetime has been deemed concluded by Sycer Development, the User will have access to the Product revoked and the Product will, consequently, be terminated. Whether or not the User is owed a full or partial refund is incumbent upon Sycer Development.
