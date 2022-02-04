@@ -23,7 +23,8 @@ If you do not wish to accept cookies from us, you should instruct your browser t
 ### Third-party access to information
 We may use third-party services for our website and marketing activity. These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with these services without your explicit consent. We do not give these services permission to disclose or use any of our data for any other purpose.
 We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity.
-We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.  
+We may share your data with the organization or individual who is utiliziing our services served to you.
 
 ### Children’s Privacy
 This website does not knowingly target or collect personal information from children. As a parent/guardian, please contact us if you believe your child is participating in an activity involving personal information on our website, and you have no received a notification or request for consent. We do not use your supplied contact details for marketing or promotional purposes.
